@@ -3,8 +3,7 @@ Scrapes discord id bots using the topgg api.  .  .  .
 
 ## How to use
 > Make sure you have Python installed.  
-> Download the latest release or the source code.  
-> Run `requirements.py` if you arent sure you dont have everything installed.  
+> Download the latest release or the source code.
 > Run `main.py`.
 
 ## Requirements
